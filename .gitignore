@@ -1,0 +1,14 @@
+# Ignore virtual environments
+rag_env/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore heavy data and local databases
+data/
+
+# Ignore environment variables / secrets
+.env
